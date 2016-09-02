@@ -1,0 +1,5 @@
+
+.idea/
+Would skip repository app/js/test
+app/bower_components
+node_modules/
